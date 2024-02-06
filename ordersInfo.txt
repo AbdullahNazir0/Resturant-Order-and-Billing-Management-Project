@@ -1,0 +1,23 @@
+
+ABDULLAH-NAZIR 1 3
+1 Mighty-Zinger 3.5
+3 Italian-Pizza 45
+4 Burning-Tequila 10
+58.5
+
+UMER-FAYYAZ 2 4
+1 Fyre-Burger 4.5
+2 Spicy-Broast 19.98
+2 Cocktail-sauce 2.5
+1 Soft-Drink 2.5
+29.48
+
+YASIR-ALI 3 3
+2 Alfredo-Pasta 9.98
+2 Turkish-Doner 9.98
+16 Gulab-Jamun 40
+59.96
+
+TEST 5 1
+1 Mighty-Zinger 3.50
+3.50

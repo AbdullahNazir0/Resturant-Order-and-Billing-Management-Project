@@ -1,0 +1,17 @@
+Mighty-Zinger 3.50
+Fyre-Burger 4.50
+Alfredo-Pasta 4.99
+Morrocan-Steak 12.50
+Nacho-Cheese 2.99
+Italian-Pizza 15.00
+Khabsa-Mandi 19.99
+Turkish-Doner 4.99
+Spicy-Broast 9.99
+Cocktail-sauce 1.25
+Gulab-Jamun 2.50
+Soft-Drink 2.50
+Mint-Margaritta 1.50
+Pina-Colada 1.50
+Burning-Tequila 2.50
+Cappuchino 3.00
+Cardamom-Tea 2.00
